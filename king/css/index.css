@@ -1,0 +1,48 @@
+.pattern {
+  text-align: center;
+  font-size: 500%;
+  font-style: italic;
+  color: rgb(189, 186, 41);
+  background-image: url(./pics/pattern.jpeg);
+  font-weight: bold;
+  position: sticky;
+  top: 0;
+  border: 7px solid rgb(182, 102, 28);
+  border-radius: 25px;
+  padding: 10px;
+}
+.brush {
+  background-color: rgb(210, 230, 99);
+  font-weight: bold;
+  color: rgb(206, 75, 15);
+  font-style: oblique;
+  border-radius: 25px;
+  padding: 35px;
+}
+.frame {
+  background-color: rgb(210, 230, 99);
+  font-weight: bold;
+  color: rgb(206, 75, 15);
+  font-style: oblique;
+  border-radius: 25px;
+  padding: 35px;
+}
+.paint {
+  background-color: rgb(210, 230, 99);
+  font-weight: bold;
+  color: rgb(206, 75, 15);
+  font-style: oblique;
+  border-radius: 25px;
+  padding: 35px;
+}
+#span {
+  color: blue;
+}
+
+* {
+  text-align: center;
+}
+
+body {
+  background-image: url(./pics/board.jpg);
+}
